@@ -9,6 +9,9 @@ A chatbot that detects emotional states (like sadness, joy, anger) from user mes
 - Logistic Regression + TF-IDF
 - Custom dataset (train.txt / test.txt)
 
+##  Dataset:
+https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+
 ##  How to Run:
 
 ```bash
