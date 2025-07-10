@@ -7,7 +7,7 @@ A chatbot that detects emotional states (like sadness, joy, anger) from user mes
 - Streamlit (Frontend)
 - scikit-learn (ML Model)
 - Logistic Regression + TF-IDF
-- Custom dataset (train.txt / test.txt)
+- Dataset (train.txt / test.txt)
 
 ##  Dataset:
 https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
